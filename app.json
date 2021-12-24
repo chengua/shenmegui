@@ -1,0 +1,22 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "41b67fde-6baf-489f-878b-bce3ad2a6114"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "5802"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/chengua/cads",
+    "stack": "container"
+}
